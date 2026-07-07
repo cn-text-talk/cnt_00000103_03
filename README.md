@@ -8,7 +8,8 @@
 <br>
 <br>你算什么东西啊？
 <br>
-<br>Intel ARVR算什么东西啊？[Intel ARVR][有给你一块][李大师的肉],[一滴][李大师的血],[吗？]
+<br>$\textsf{\color{red}{Intel算什么东西啊？[Intel][有给你一块][李大师的肉],[一滴][李大师的血],[吗？]}}$
+<br>
 </h3>
 <hr>
 <img src="https://github.com/user-attachments/assets/3bbb736a-b8e1-4f8c-a079-1b446b70ebc4" alt="MLH_100_R000_M_1X2_00">
